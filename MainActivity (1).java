@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-
+//layout
     public void reset(View view)
     {
         GridLayout gridLayout = findViewById(R.id.gridLayout);
